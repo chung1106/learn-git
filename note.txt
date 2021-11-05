@@ -1,0 +1,1 @@
+- git config --global credential.helper "cache --timeout=18000" (5 tieng) : lenh nay đỡ phải gõ lại username, password
